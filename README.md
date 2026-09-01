@@ -12,11 +12,17 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rfirdaus67&layout=donut&theme=shadow_blue" height="180" />
   </a>
   <a href="https://github.com/rfirdaus67/applied-ai-system-project">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=rfirdaus67&repo=rfirdaus67%2Fapplied-ai-system-project&theme=default" height="180" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=rfirdaus67&repo=rfirdaus67%2Fapplied-ai-system-project" height="180" />
   </a>
 </p>
 
-
+<h1 align="center"> About Me: 
+</h1>
+<h2>
+  <li>CS @ Binghamton University 💻👩‍💻 </li>
+  <li> Class of 2028 🎓</li>
+  <li>Technical Interests: AI & Cybersecurity 🤖🔒</li>
+</h2>
 
 <!--
 **rfirdaus67/rfirdaus67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
