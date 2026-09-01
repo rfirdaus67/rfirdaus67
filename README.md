@@ -14,6 +14,9 @@
   <a href="https://github.com/rfirdaus67/applied-ai-system-project">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=rfirdaus67&repo=rfirdaus67%2Fapplied-ai-system-project" height="180" />
   </a>
+  <a href="https://github.com/rfirdaus67/BrandIt_AI">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=rfirdaus67&repo=rfirdaus67%2Fbrandit_ai" height="180" />
+  </a>
 </p>
 
 <h1 align="center"> About Me: 
